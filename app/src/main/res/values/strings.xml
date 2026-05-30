@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Ghost Finder</string>
-    <string name="app_subtitle">Reveal what hides in your room</string>
+    <!-- Launcher / Play Store display name. KEEP this short — Android shows
+         it under the icon and truncates after ~12 characters on most launchers.
+         Play Store *Title* is a separate field (see docs/ASO.md). -->
+    <string name="app_name">Ghost Detector App</string>
+    <string name="app_subtitle">Detect paranormal activity in AR</string>
 </resources>

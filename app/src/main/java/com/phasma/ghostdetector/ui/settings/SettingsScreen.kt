@@ -145,7 +145,7 @@ fun SettingsScreen(onExit: () -> Unit) {
 
             SettingsSection("About") {
                 Text(
-                    "Ghost Finder · v1.0",
+                    "Ghost Detector · v1.0",
                     color = PhasmaBone.copy(alpha = 0.7f),
                     fontSize = 12.sp
                 )

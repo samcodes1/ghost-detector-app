@@ -65,7 +65,7 @@ fun SplashScreen(onFinished: () -> Unit) {
                 pulse = pulse
             )
             Text(
-                text = "Ghost Finder",
+                text = "Ghost Detector",
                 fontFamily = androidx.compose.ui.text.font.FontFamily.Serif,
                 fontStyle = androidx.compose.ui.text.font.FontStyle.Italic,
                 fontWeight = androidx.compose.ui.text.font.FontWeight.Light,

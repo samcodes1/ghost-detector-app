@@ -169,11 +169,11 @@ fun HomeScreen(
                 color = PhasmaBone,
             )
             Text(
-                "FINDER",
+                "DETECTOR",
                 fontFamily = FontFamily.Serif,
                 fontWeight = FontWeight.Black,
-                fontSize = 56.sp,
-                letterSpacing = 6.sp,
+                fontSize = 44.sp,            // smaller than "GHOST" because DETECTOR is wider
+                letterSpacing = 4.sp,
                 color = PhasmaDanger.copy(alpha = 0.65f + 0.35f * breath),
             )
             Spacer(Modifier.height(4.dp))

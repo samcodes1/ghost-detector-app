@@ -53,7 +53,7 @@ private data class OnboardPage(
 
 private val PAGES = listOf(
     OnboardPage(
-        "👻", "Welcome to Ghost Finder",
+        "👻", "Welcome to Ghost Detector",
         "An AR app that lets you scan rooms for ghosts and prank your friends. " +
             "Best with headphones in a dim room.",
         PhasmaGlow
