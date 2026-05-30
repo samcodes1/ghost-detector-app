@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="phasma_void">#05060A</color>
+    <color name="phasma_ink">#0B0E18</color>
+    <color name="phasma_glow">#7EE6FF</color>
+    <color name="phasma_plasma">#9D5BFF</color>
+    <color name="ic_launcher_background">#0B0E18</color>
+</resources>
